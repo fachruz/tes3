@@ -1,0 +1,20 @@
+{
+  
+  "cw20TokenAddress": "<junotz1Z77iWwWzbv6uPDMTnZr9CDzgb2LfMteaF>",
+"name": "<crazyrich>",
+  "start": null,
+  "startType": null,
+  "expiration": null,
+  "expirationType": null,
+  "totalAmount": 1000000,
+ "accounts": [
+    {
+      "address": "junotz1Z77iWwWzbv6uPDMTnZr9CDzgb2LfMteaF",
+      "amount": 1000000,
+    },
+    {
+      "address": "juno1tz1Z77iWwWzbv6uPDMTnZr9CDzgb2LfMteaF",
+      "amount": 1000000,
+    }
+  ],
+}
